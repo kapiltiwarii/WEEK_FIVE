@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\employees.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\omg.csv">
           <value>
             <Attribute>
