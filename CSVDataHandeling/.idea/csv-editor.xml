@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\employee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\students.csv">
           <value>
             <Attribute>
@@ -11,7 +18,6 @@
           </value>
         </entry>
       </map>
-      
     </option>
   </component>
 </project>
