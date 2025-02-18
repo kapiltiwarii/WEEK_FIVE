@@ -17,7 +17,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\omg.csv">
+        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\merged_Student.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\student1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\WEEK5\CSVDataHandeling\src\main\java\org\example\student2.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
